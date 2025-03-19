@@ -4,7 +4,7 @@ public class test {
         System.out.println(Integer.toString(i));
 
         String s = "pranaw";
-        System.out.println(s+" new feature");
+        System.out.println(s+" clear new feature");
     }    
 
 }
