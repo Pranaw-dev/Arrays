@@ -1,12 +1,10 @@
 public class test {
     public static void main(String[] args) {
-        System.out.println("Hello World");
-    }    
-    
-    public static void main1(String[] args) {
-        System.out.println("Hello World 1");
-    }
+        int i = 1;
+        System.out.println(Integer.toString(i));
 
-    public static void main2(String[] args) {
-        System.out.println("Hello World 2");}
+        String s = "pranaw";
+        System.out.println(s);
+    }    
+
 }
