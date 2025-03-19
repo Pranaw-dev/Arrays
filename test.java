@@ -8,5 +8,5 @@ public class test {
     }
 
     public static void main2(String[] args) {
-        System.out.println("Hello World 2");}git classkkkkkkkkkkk
+        System.out.println("Hello World 2");}
 }
