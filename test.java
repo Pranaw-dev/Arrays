@@ -3,8 +3,9 @@ public class test {
         int i = 1;
         System.out.println(Integer.toString(i));
 
-        String s = "pranaw";
-        System.out.println(s+" \nclear new feature");
+        for (int i=0; i<10; i++) {
+            System.out.println(i);
+        }
     }    
 
 }
