@@ -26,6 +26,9 @@ public class key_value {
     } else {
         System.out.println("I am not present");
     }
+
+// Optional<T> is a container object introduced in Java 8 (in java.util package) that may or may not contain a non-null value. 
+// It helps to avoid NullPointerException by forcing developers to handle the case when a value is missing.
     
 
 
