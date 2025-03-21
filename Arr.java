@@ -13,10 +13,19 @@ public class Arr{
         for (Object obj: arr){
             System.out.println(obj);
         }
+
         System.out.println();
+        
         char[] arr1 = {'a', 'b', 'c'};
+        
         for (int i=0; i<arr1.length;i++){
             System.out.println(arr1[i]);
+        }
+        System.out.println();
+        
+        // by using arr instd of arr1
+        for (int i=0; i<arr.size();i++){
+            System.out.println(arr.get(i));
         }
         scanner.close();
     }
